@@ -4,6 +4,11 @@
 > 格式：`## [YYYY-MM-DD] action | subject`
 > 操作：ingest, update, query, lint, create, archive, delete
 
+## [2026-04-13] ingest | kronos
+- 新增 entities/kronos.md
+- 新增 raw/articles/kronos-foundation-model-2026.md
+- 更新 index.md
+
 ## [2026-04-13] ingest | hermes-agent
 - 新增 entities/hermes-agent.md
 - 新增 raw/articles/nousresearch-hermes-agent-2026.md
