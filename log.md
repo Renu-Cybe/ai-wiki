@@ -4,6 +4,11 @@
 > 格式：`## [YYYY-MM-DD] action | subject`
 > 操作：ingest, update, query, lint, create, archive, delete
 
+## [2026-04-13] ingest | hermes-agent
+- 新增 entities/hermes-agent.md
+- 新增 raw/articles/nousresearch-hermes-agent-2026.md
+- 更新 index.md
+
 ## [2026-04-13] create | Wiki initialized
 - Domain: LLM + AI 工具生态
 - Repository: github.com/Renu-Cybe/ai-wiki
